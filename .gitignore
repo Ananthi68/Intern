@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.log
+*.zip
+*.pem
+*.key
+*.pub
+terraform.tfvars
+terraform.tfvars.json
